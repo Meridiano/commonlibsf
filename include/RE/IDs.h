@@ -284,7 +284,7 @@ namespace RE::ID
 
 		namespace ObjectBindPolicy
 		{
-			inline constexpr REL::ID BindObject{ 0 };  // 195981
+			inline constexpr REL::ID BindObject{ 41651 };
 		}
 
 		namespace ObjectTypeInfo
